@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Graphic-Page (project-14)](https://seo-page.netlify.app/)
+## [Link to the Graphic-Page (project-14)](https://grephic-page.netlify.app/)
 
 
 ![Completed Website](img1.png)
