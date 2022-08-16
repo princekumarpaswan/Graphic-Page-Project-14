@@ -287,19 +287,21 @@ body{
 {
     body{
         overflow-x: hidden !important;
+        flex-wrap: wrap;
     }
     
    
 .sec1{
-    display: flex;
+    display: block;
     gap: 10px !important;
     margin-top: 20px;
     width: 300px;
     text-align: center;
 }
 .sec1 img{
-    width: 50px;
-    margin-left: 50px;
+    width: 70px;
+    margin-left: 90px;
+    margin-bottom: 0px !important;
    
 }
 
@@ -307,11 +309,12 @@ body{
    display: none;
 }
 .sec1 ul{
-    margin-left: -100px;
+    margin-left: -125px;
     margin-right: 10px;
+    flex-wrap: wrap;
 }
 .sec1 ul li{
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 900;
     margin-top: 25px;
     margin-left: -45px;
@@ -321,10 +324,10 @@ body{
 }
 .img1 img{
     margin-top: 50px !important;
-    width: 200px;
+    width: 300px;
     margin-top: 50px;
     border-radius: 10px;
-    margin-left: -30px;
+    margin-left: -20px;
 
 }
 .img1{
@@ -341,21 +344,21 @@ body{
 }
 .sec2right{
     display: block;
-    margin-left: 10px;
+    margin-left: 60px;
     z-index: 1 !important;
-    margin-top: 300px;
+    margin-top: 400px;
 }
 .sec2right div h1{
-    font-size:30px;
-    padding-left: 30px;
+    font-size:40px;
+    padding-left:10px;
 }
 
 .head2{
     margin-top: -10px;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 .sec2right div{
-    margin: 30px 30px;
+    margin: 30px 50px;
 }
 .rightbtn{
     width: 300px;
@@ -386,7 +389,7 @@ body{
 }
 .last{
     display: block;
-    margin: 50px 10px;
+    margin: 50px 70px;
     width: 300px;
 
 }
@@ -409,7 +412,7 @@ body{
     font-size: 25px;
  }
  .useless img{
-    width: 200px;
+    width: 300px;
     margin: -10px 0px;
     margin-left: -90px;
  }
